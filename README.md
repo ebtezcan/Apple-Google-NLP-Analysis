@@ -82,7 +82,7 @@ Today, it is more important than ever for businesses to be in tune with their cu
 **1. How is Apple perceived as a company during the SXSW Conference, and how does this compare to Google as one of their main competitors?**
 
 - During the SXSW Conference, 81.1% of all tweets related to Apple were positive compared to Google's 82%.
-- During the SXSW Conference, 16.1% of all tweets related to Apple were positive compared to Google's 14.9%
+- During the SXSW Conference, 16.1% of all tweets related to Apple were negative compared to Google's 14.9%
 
 This suggests that both companies and their products and services are perceived mostly in a positive way. 
 
