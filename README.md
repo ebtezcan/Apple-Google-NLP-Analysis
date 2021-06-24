@@ -129,3 +129,20 @@ Furthermore, our dataset consisted of 9,092 tweets which is a fairly small numbe
 As next steps, if Apple would like to generalize these models for different applications, we would definitely gather more data from Twitter and potentially other sources. Additionally, if the data had to be labeled by humans, we would set guidelines for what each class of tweet would consist of with examples to make sure that the labels didn't solely rely on emotions. Furthermore, taking the average of sentiment labels for each tweet would result in more accurate labels.
 
 Lastly, the performance of the models could be greatly improved by rethinking this project with Neural Networks. In the future we would use Deep NLP to classify tweets.
+
+## For More Information
+
+Please review my full analysis in [my Jupyter Notebook](./final_notebook.ipynb) or my [presentation](./presentation.pdf). For any additional questions, please contact Berke Tezcan at berketezcan@gmail.com.
+
+&nbsp;
+### Repository Structure
+
+
+```
+
+├── README.md               <- The top-level README for reviewers of this project.
+├── final_notebook.ipynb    <- Narrative documentation of analysis in jupyter notebook
+├── notebook.pdf            <- Narrative documentation of analysis in PDF
+├── presentation.pdf        <- PDF version of project presentation
+├── images                  <- Both sourced externally and generated from code
+└── data                    <- Externally sourced data
