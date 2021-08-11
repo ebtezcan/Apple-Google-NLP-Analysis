@@ -1,4 +1,4 @@
-# Decyphering the Public Opinion on Apple
+# Deciphering the Public Opinion on Apple
 ## Conducting a Twitter sentiment analysis for the SXSW Conference
 &nbsp;
 
